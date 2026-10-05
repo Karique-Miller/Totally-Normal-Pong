@@ -9,7 +9,6 @@ Just your average game of pong, with a few upgrades.
 - [Overview](#overview)  
 - [Features](#features)  
 - [Motivation & Learning Goals](#motivation--goals)  
-- [Technical Details](#technical-details)  
 - [Installation](#installation)   
 - [Future Improvements](#future-improvements)  
 
